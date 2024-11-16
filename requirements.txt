@@ -1,0 +1,7 @@
+flask==2.3.2
+flask-cors==3.0.10
+chromadb==0.3.21
+llama_index==0.5.0
+huggingface-hub==0.16.4
+transformers==4.33.2
+torch==2.0.1
